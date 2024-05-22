@@ -17,7 +17,7 @@
 ![gif](https://raw.githubusercontent.com/adi1090x/files/master/dynamic-wallpaper/main.gif) <br />
 
 ### Overview
-
++ Support for dark theme in ubuntu-based distros. 
 + 25+[(more)](https://github.com/adi1090x/files/tree/master/dynamic-wallpaper/wallpapers) different types of wallpaper set (HD/UHD/4K/5K).
 + Added `pywal` support.
 + Users can add their own wallpapers.
